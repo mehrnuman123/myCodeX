@@ -1,0 +1,22 @@
+import  tkinter as tk
+import turtle
+
+words = {
+    'Deprive,deprive': 'mahroom or mahroom hona' ,
+    'sick': 'bemar hona,kisi bemari main mubtla hona'  ,
+'thought':'sochna'  ,
+'run': 'bhagna' ,
+'clutch': 'control krna,pakrna' ,
+'live': 'brahe_raasst' ,
+'through': 'phainkna' ,
+'wall': 'dewar' ,
+'door ':'darwaza'  ,
+'lamb': 'bhairya' }
+choice = input("enter the word : ")
+print(words.get(choice))
+if choice != words:
+    print('******out of scope******')
+else:
+    print(words)
+#for count in range(10):
+ #   print(choice)
