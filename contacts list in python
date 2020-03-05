@@ -1,0 +1,20 @@
+contacts = {
+'Numan' :{'mobile number' : '03094906879','email address' :'nomi63768@gmail.com'},
+'haider' :{'mobile number' : '03694906879','email address' :'nomi63738@gmail.com'},
+'waqas' :{'mobile number' : '04294906879','email address' :'waqas6378@gmail.com'},
+'hamza' :{'mobile number' : '03494906879','email address' :'nomi6378@gmail.com'},
+'syed' :{'mobile number' : '03344906879','email address' :'nomi6378@gmail.com'},
+'mujtiba ammar' :{'mobile number' : '03094906879','email address' :'nomi6378@gmail.com'},
+'ali raza' :{'mobile number' : '03034906879','email address' :'nomi6378@gmail.com'},
+'usama' :{'mobile number' : '03094966879','email address' :'nomi6378@gmail.com'},
+'tayyab' :{'mobile number' : '03094006879','email address' :'nomi6378@gmail.com'},
+'hammad' :{'mobile number' : '03094906879','email address' :'nomi6378@gmail.com'},
+'ammar uni' :{'mobile number' : '03794906879','email address' :'nomi6378@gmail.com'},
+'butt' :{'mobile number' : '03094966879','email address' :'nomi6378@gmail.com'},
+'rana' :{'mobile number' : '03094906879','email address' :'nomi6378@gmail.com'},
+'unknown' :{'mobile number' : '03094906879','email address' :'nomi6378@gmail.com'},
+'Numan' :{'mobile number' : '03094906879','email address' :'nomi6378@gmail.com'}
+
+}
+
+print(contacts.get(search))
